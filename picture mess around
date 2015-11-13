@@ -9,10 +9,15 @@
       background:grey;
 
         display: block; margin: 0 auto; }
+        h1 {
+            color:red;
+            text-align: center;
+            padding: 10px
+        }
     </style>
 </head>
 <body>
-
+<h1> I AM YOUR FATHER!!!!! </h1>
 <canvas id="myCanvas" width="1200" height="700"></canvas>
 
 <script>
